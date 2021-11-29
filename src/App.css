@@ -1,1 +1,12 @@
 /* Add custom styling here */
+.priority-1 {
+    background-color: lightgoldenrodyellow;
+}
+
+.priority-2 {
+    background-color: yellow;
+}
+
+.priority-3 {
+    background-color: tomato;
+}
